@@ -1,4 +1,5 @@
 # OTP-Based Authentication Service 🔐
+## Watch on Youtube: [Email-Based-Otp-Authentication](https://youtu.be/-tIf34OYG14)
 
 A Spring Boot application for email OTP-based authentication. Users register, receive a 6-digit OTP via email, verify it, and get a JWT token.
 
